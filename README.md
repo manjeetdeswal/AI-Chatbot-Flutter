@@ -2,6 +2,22 @@
 
 A powerful, multi-model AI chat application built with Flutter. This app allows users to seamlessly switch between the world's top AI models in a single, unified, dark-themed interface. 
 
+
+# 📸 Screenshots
+
+
+  
+</p>
+<p align="center">
+  <img src="https://github.com/manjeetdeswal/AI-Chatbot-Flutter/blob/master/ss/Screenshot_20260409-194242.png?raw=true" width="45%" alt="Keyboard" />
+  <img src="https://github.com/manjeetdeswal/AI-Chatbot-Flutter/blob/master/ss/Screenshot_20260409-194243.png?raw=true" width="45%" alt="Display Extension" />
+</p>
+<p align="center">
+  <img src="https://github.com/manjeetdeswal/AI-Chatbot-Flutter/blob/master/ss/Screenshot_20260409-194439.png?raw=true" width="45%" alt="Mic Streaming" />
+    <img src="https://github.com/manjeetdeswal/AI-Chatbot-Flutter/blob/master/ss/Screenshot_20260409-220010.png?raw=true" width="45%" alt="Mic Streaming" />
+</p
+
+
 ## ✨ Features
 
 * **Multi-Provider Support:** Instantly switch between Google Gemini, OpenAI, Anthropic (Claude), xAI (Grok), Moonshot (Kimi), and DeepSeek.
