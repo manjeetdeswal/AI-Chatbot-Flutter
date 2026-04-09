@@ -82,5 +82,4 @@ flutter build apk --release
 3. Locate the generated APK at:
 `build/app/outputs/flutter-apk/app-release.apk`
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
