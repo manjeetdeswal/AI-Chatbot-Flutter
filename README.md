@@ -1,4 +1,4 @@
-# Perplexity Style AI Chat
+#  AI Chatbot
 
 A powerful, multi-model AI chat application built with Flutter. This app allows users to seamlessly switch between the world's top AI models in a single, unified, dark-themed interface. 
 
